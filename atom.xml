@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+    <id>https://kyle96.netlify.app</id>
+    <title>Skywalker</title>
+    <updated>2023-05-24T08:14:27.218Z</updated>
+    <generator>https://github.com/jpmonette/feed</generator>
+    <link rel="alternate" href="https://kyle96.netlify.app"/>
+    <link rel="self" href="https://kyle96.netlify.app/atom.xml"/>
+    <subtitle>温故而知新</subtitle>
+    <logo>https://kyle96.netlify.app/images/avatar.png</logo>
+    <icon>https://kyle96.netlify.app/favicon.ico</icon>
+    <rights>All rights reserved 2023, Skywalker</rights>
+    <entry>
+        <title type="html"><![CDATA[「独行月球」杂谈]]></title>
+        <id>https://kyle96.netlify.app/post/du-xing-yue-qiu/</id>
+        <link href="https://kyle96.netlify.app/post/du-xing-yue-qiu/">
+        </link>
+        <updated>2022-07-30T15:49:55.000Z</updated>
+        <content type="html"><![CDATA[<p>独行月球这电影改编的确实不成功，可还能看出来编剧是有读过一些科幻文学的。</p>
+<p>中段的时候有些火星救援即视感，到结局那儿煽情过度了点。但是不得不说末段致敬雷布雷德伯里的味道非常浓，就是那篇《万花筒》：</p>
+<p>当我坠入大气层，我会像流星一样燃烧。“我在想，”他自言自语，“会有人看见我吗？”乡间小路上，那个小男孩翘首仰望，叫了出来：“看呐，妈妈，看！一颗流星！”在伊利诺伊州的薄暮中，那一道耀目的白光擦亮了天宇。</p>
+<p>“许个愿，”他的妈妈说，“快许个愿。”</p>
+<p>至于二次登月，这段剧情让整个故事垮掉了，情感上是照顾观众显得饱满了，可瞬间变成了非常俗套的氛围。</p>
+<p>回想年少时代读雷布雷德伯里的那种震撼，以及大学在webtoon上追赵石独行月球漫画时感受到的含蓄精巧设计。我只能说编剧与导演这锅大杂烩不是很对胃口，没有搞清楚自己到底要拍一个什么作品。科幻？喜剧？励志？</p>
+<p>倒也能理解一些观众对电影诸多细节，如“带我回家“、“蓝色行星带”、“故地重游的时空交错”表示非常感动。 但在你读过看过各自根源文学时就会明白，这些内容都只能算二手的感动。不至于勃然大怒，但情感上已经没有什么太大的涟漪了。</p>
+]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[「瑞鹤图」杂谈]]></title>
+        <id>https://kyle96.netlify.app/post/rui-he-tu-za-tan/</id>
+        <link href="https://kyle96.netlify.app/post/rui-he-tu-za-tan/">
+        </link>
+        <updated>2022-07-16T10:30:30.000Z</updated>
+        <content type="html"><![CDATA[<p>赵佶确实是艺术天才，瑞鹤图里的姿态正合了他题在左侧的字。一时间以为是瑞鹤飞出画面，鹤骨落在纸上成了字句。但是这样的天才，却是一个十足的白痴。</p>
+<p>登封造极的艺术，总和昏聩的头头结伴同行。梁武菩萨经史子集无一不通，诗词音律可谓世之无二；老郎神太庙早已破落，梨园却常有祭祀；昏德公只以神韵墨宝、丹青瓷器传世；天启漆木楼亭技艺精巧，所造有价无市。<br>
+玩物丧志，必有其道理所在。但志向通达，审美品味却有不堪入目如十全老人，盖章狂魔，农家乐审美…却是难两全。</p>
+]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[「埃拉加巴卢斯的玫瑰」有感]]></title>
+        <id>https://kyle96.netlify.app/post/Heliogabalus/</id>
+        <link href="https://kyle96.netlify.app/post/Heliogabalus/">
+        </link>
+        <updated>2022-06-27T07:19:33.000Z</updated>
+        <summary type="html"><![CDATA[<p>爱任何事物要学会从爱别人与爱自己开始，或者从根本来说，要学会爱自己。</p>
+]]></summary>
+        <content type="html"><![CDATA[<p>爱任何事物要学会从爱别人与爱自己开始，或者从根本来说，要学会爱自己。</p>
+<!-- more -->
+<figure data-type="image" tabindex="1"><img src="https://kyle96.netlify.app/post-images/1684912949653.jpg" alt="埃拉加巴卢斯的玫瑰" loading="lazy"></figure>
+<p>埃拉加巴卢斯，这位横征暴敛的罗马皇帝，即便以炫美玫瑰赋情于宾客，也无人能消受他这残酷窒息的盛宴。</p>
+<p>众宾客或能答曰：鱼丽之会，言笑晏晏。醉止屡舞，是谓伐德。然而在这滥觞迷醉中难以消受，只能沉默答之。</p>
+]]></content>
+    </entry>
+</feed>
